@@ -3,7 +3,8 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=300&text=Believe%20you%20can%20and%20you’re%20halfway%20there!&fontAlign=50&fontAlignY=40&fontSize=40&color=gradient)
 
 <p align= "center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&multiline=true&width=600&height=100&lines=%22Great+men+are+not +born+great,+they+grow+great!%22+;+-Believe" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&multiline=true&width=1200&height=200&lines=%22
+Success+is+not+final,+failure+is+ not+fatal:+It+is+the+courage+to continue+that+counts%22+;+-Believe" />
 </p>
 
 ## GitHub Profile Trophy 🏆
@@ -53,7 +54,7 @@
 ##
 
   <!-- <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*-D6VWpsPWbWKAvdMyOg26g.png" /> -->
-  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*aarDPwb1Umz554KwjmcQSg.png" />
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*pZ4gbSPyZJIT5hK5troE8g@2x.jpeg" />
 
 ## My position 📊
 
