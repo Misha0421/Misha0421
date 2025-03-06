@@ -25,17 +25,22 @@ Success+is+not+final,+failure+is+ not+fatal:+It+is+the+courage+to continue+that+
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
+</div>
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-  </div>
-  <div style="display: flex; align-items: flex-start;">
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/rescript-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" />
+</div>
+ 
+ <div style="display: flex; align-items: flex-start;">
   <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" />
@@ -44,17 +49,14 @@ Success+is+not+final,+failure+is+ not+fatal:+It+is+the+courage+to continue+that+
   <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-
-  </div>
- <div style="display: flex; align-items: flex-start;">
   <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="icon" width="65" height="65" />
+ 
 </div>
 
 ##
 
   <!-- <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*-D6VWpsPWbWKAvdMyOg26g.png" /> -->
-  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*pZ4gbSPyZJIT5hK5troE8g@2x.jpeg" />
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*zDaTB6bt9KRZ4-_hf7JuWQ.png" />
 
 ## My position 📊
 
