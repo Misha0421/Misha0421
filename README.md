@@ -17,7 +17,7 @@ Success+is+not+final,+failure+is+ not+fatal:+It+is+the+courage+to continue+that+
 
 > Tools and technologies that I have worked with
 
-<div style="display: flex; align-items: flex-center;">
+<div style="display: flex;justify-content:center; align-items: flex-center;">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
@@ -28,7 +28,7 @@ Success+is+not+final,+failure+is+ not+fatal:+It+is+the+courage+to continue+that+
   <img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
 </div>
-<div style="display: flex; align-items: flex-center;">
+<div style="display: flex; justify-content:center;align-items: flex-center;">
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
@@ -40,7 +40,7 @@ Success+is+not+final,+failure+is+ not+fatal:+It+is+the+courage+to continue+that+
   <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" />
 </div>
  
- <div style="display: flex; align-items: flex-center;">
+ <div style="display: flex; justify-content:center;align-items: flex-center;">
   <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" />
@@ -56,7 +56,7 @@ Success+is+not+final,+failure+is+ not+fatal:+It+is+the+courage+to continue+that+
 ##
 
   <!-- <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*-D6VWpsPWbWKAvdMyOg26g.png" /> -->
-  <img style="display:flex; align-items:flex-center" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*zDaTB6bt9KRZ4-_hf7JuWQ.png" />
+  <img style="display:flex; justify-content:center;align-items:flex-center" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*zDaTB6bt9KRZ4-_hf7JuWQ.png" />
 
 ## My position 📊
 
